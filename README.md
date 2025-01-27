@@ -2,7 +2,7 @@
 
 ## About me
 - Originally from Myanmar, currently living and working Melbourne, Australia.
-- I have 4+ year experience working across financial service and consulting service.
+- I have 5+ year experience working across financial service and consulting service.
 - Language: English, Burmese, Thai, Chinese (Mandarian, Fujian) and Basic Japanese.
 - Programming: SQL, Python, R and able to use visualization tools such as Power BI and Tableau.
 - I am aspiring to become a quantitative analyst to solve million dollars business problem utilising programming and mathematical models.
