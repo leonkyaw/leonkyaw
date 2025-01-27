@@ -1,4 +1,4 @@
-# kyawtunlwin
+# Kyaw Tun Lwin (Leon)
 
 ## About me
 - Originally from Myanmar, currently living and working Melbourne, Australia.
