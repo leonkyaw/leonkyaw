@@ -13,5 +13,4 @@
 -   I also like music, art, table tennis, trekking and basketball.
 
 ## Typing Speed
-<a href="["](https://monkeytype.com/profile/> Monkeytype </a>
-
+[https://monkeytype.com/profile/leonkyaw](Monkeytype)
