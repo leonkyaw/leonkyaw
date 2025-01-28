@@ -11,3 +11,6 @@
 -   I am a self-proclaimed foodie.
 -   I like reading book (self-help, business, psychology, philosophy).
 -   I also like music, art, table tennis, trekking and basketball.
+
+## Typing Speed
+https://monkeytype.com/profile/leonkyaw
