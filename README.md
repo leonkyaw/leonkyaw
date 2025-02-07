@@ -14,3 +14,6 @@
 
 ## Typing Speed
 [Monkeytype](https://monkeytype.com/profile/leonkyaw)
+
+## Skill Tests
+[HackerRank](https://www.hackerrank.com/profile/kyawtunlwin_l)
