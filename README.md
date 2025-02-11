@@ -8,9 +8,9 @@
 - Exposured to SQL, Python, R, SAS and able to use visualization tools such as Power BI and Tableau.
 - Check out cool projects I built on dedicated Repo.
 - Outside of professional aspect:
--     I am a self-proclaimed foodie.
--     I like reading book (self-help, business, psychology, philosophy).
--     I also like music, art, table tennis, trekking and basketball.
+  - I am a self-proclaimed foodie.
+  - I like reading book (self-help, business, psychology, philosophy).
+  - I also like music, art, table tennis, trekking and basketball.
 
 ## Typing Speed
 [Monkeytype](https://monkeytype.com/profile/leonkyaw)
