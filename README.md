@@ -6,7 +6,6 @@
   <li>I have 5+ year experience working across financial and consulting services.</li>
   <li>I am aspiring to be a quantitative analyst to solve million dollars business problem utilising programming and mathematical models.</li>
   <li>I speak English, Burmese, Thai, Intermediate Chinese (Mandarian, Fujian) and Basic Japanese.</li>
-  <li> Python, R, HTML, CSS and able to use visualization tools such as Power BI and Tableau.</li>
   <li>Check out cool projects I built on dedicated Repo.</li>
   <li> Outside of professional aspect:
     <ul>
