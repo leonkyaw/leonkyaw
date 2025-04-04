@@ -6,7 +6,7 @@
   <li>I have 5+ year experience working across financial and consulting services.</li>
   <li>I am aspiring to be a quantitative analyst to solve million dollars business problem utilising programming and mathematical models.</li>
   <li>I speak English, Burmese, Thai, Intermediate Chinese (Mandarian, Fujian) and Basic Japanese.</li>
-  <li>Exposured to SQL, Python, R, HTML, CSS and able to use visualization tools such as Power BI and Tableau.</li>
+  <li> Python, R, HTML, CSS and able to use visualization tools such as Power BI and Tableau.</li>
   <li>Check out cool projects I built on dedicated Repo.</li>
   <li> Outside of professional aspect:
     <ul>
@@ -18,7 +18,8 @@
 </ul>
 
 <h2> Developer Tools </h2>
-<img src="./img/R-studio.svg" alt="R-studio Logo" width= 30 height=30/>
+<img src="./img/R-studio.svg" alt="R-studio Logo" width= 30 height=30/> <img src="./python.png" alt="R-studio Logo" width= 30 height=30/>
+
 
 <h2> Typing Speed </h2>
 <a href="https://monkeytype.com/profile/leonkyaw">Monkey Type</a>
