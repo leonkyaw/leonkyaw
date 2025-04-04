@@ -21,10 +21,10 @@
 <div align="center">
 <img src="./img/R-studio.svg" alt="R-studio Logo" width= 30 height=30/> 
 <img src="./img/python.png" alt="Python Logo" width= 30 height=30/>
-<img src="./img/mysql.png" alt="SQL Logo" width= 30 height=30/>
-<img src="./img/html.jpg" alt="HTML Logo" width= 30 height=30/>
-<img src="./img/css.webp" alt="CSS Logo" width= 30 height=30/>
-<img src="./img/Tableau-Logo.png" alt="Tableau Logo" width= 30 height=30/>
+<img src="./img/mysql.svg" alt="SQL Logo" width= 30 height=30/>
+<img src="./img/html.png" alt="HTML Logo" width= 30 height=30/>
+<img src="./img/css.png" alt="CSS Logo" width= 30 height=30/>
+<img src="./img/tableau.png" alt="Tableau Logo" width= 30 height=30/>
 <img src="./img/powerbi.png" alt="PowerBI Logo" width= 30 height=30/>
 </div>
 
