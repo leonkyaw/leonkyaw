@@ -18,10 +18,10 @@
 </ul>
 
 <h2> Developer Tools </h2>
-<p align="center">
+<div align="center">
 <img src="./img/R-studio.svg" alt="R-studio Logo" width= 30 height=30/> 
 <img src="./img/python.png" alt="Python Logo" width= 30 height=30/>
-</p>
+</div>
 
 <h2> Typing Speed </h2>
 <a href="https://monkeytype.com/profile/leonkyaw">Monkey Type</a>
