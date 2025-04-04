@@ -17,6 +17,9 @@
   </li>
 </ul>
 
+<h2> Developer Tools </h2>
+<img src="./img/R-studio.svg" alt="R-studio Logo"/>
+
 <h2> Typing Speed </h2>
 <a href="https://monkeytype.com/profile/leonkyaw">Monkey Type</a>
 
