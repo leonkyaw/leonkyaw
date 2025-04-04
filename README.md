@@ -19,7 +19,7 @@
 
 <h2> Developer Tools </h2>
 <img src="./img/R-studio.svg" alt="R-studio Logo" width= 30 height=30/> 
-<img src="./python.png" alt="Python Logo" width= 30 height=30/>
+<img src="./img/python.png" alt="Python Logo" width= 30 height=30/>
 
 
 <h2> Typing Speed </h2>
