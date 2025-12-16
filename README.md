@@ -11,7 +11,7 @@
     <ul>
     <li> I am a self-proclaimed foodie.</li>
     <li>I like reading book (self-help, business, psychology, philosophy).</li>
-    <li> I also like music, art, table tennis, trekking and basketball.</li>
+    <li> I also like music, art, table tennis, trekking and basketball, tennis.</li>
     </ul>
   </li>
 </ul>
